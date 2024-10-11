@@ -13,6 +13,6 @@ protected:
 	Vecteur2 v;
 
 public:
-	Mob b(float x, float y, float HpMax, float HpNow, Vecteur2 direc);
+	Mob(float x, float y, float HpMax, float HpNow, Vecteur2 deplacer);
 };
 

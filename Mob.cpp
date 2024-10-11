@@ -1,6 +1,9 @@
 #include "Mob.h"
 
-Mob::mob(float x, float y, float HpMax, float HpNow, Vecteur2 direc)
+Mob::Mob(float x, float y, float HpMax, float HpNow, Vecteur2 deplacement) : Alive(HpMax), AMovable( ),
 {
 	SetPosXY(x, y);
+	LifeMax = HpMax;
+	LifeNow = HpNow;
+	deplacement = deplacer();
 }

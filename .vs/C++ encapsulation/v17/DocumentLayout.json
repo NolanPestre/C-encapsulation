@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Mob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Mob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\C\u002B\u002B encapsulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:C\u002B\u002B encapsulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Vecteur2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Vecteur2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\StaticObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:StaticObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\IAttacker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:IAttacker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\IAttacker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:IAttacker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\AMovable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:AMovable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\AMovable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:AMovable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Mob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Mob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\BreakableObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:BreakableObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\BreakableObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:BreakableObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Alive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Alive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Alive.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Alive.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Vecteur2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7D9415-DD0F-4F17-9D42-FE2E980FEAF7}|C\u002B\u002B encapsulation.vcxproj|solutionrelative:Vecteur2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +78,227 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Alive.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Alive.cpp",
+              "RelativeDocumentMoniker": "Alive.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Alive.cpp",
+              "RelativeToolTip": "Alive.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:51:44.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mob.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Mob.h",
+              "RelativeDocumentMoniker": "Mob.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Mob.h",
+              "RelativeToolTip": "Mob.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:46:39.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mob.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Mob.cpp",
+              "RelativeDocumentMoniker": "Mob.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Mob.cpp",
+              "RelativeToolTip": "Mob.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:44:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vecteur2.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Vecteur2.h",
+              "RelativeDocumentMoniker": "Vecteur2.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Vecteur2.h",
+              "RelativeToolTip": "Vecteur2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:48.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vecteur2.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Vecteur2.cpp",
+              "RelativeDocumentMoniker": "Vecteur2.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Vecteur2.cpp",
+              "RelativeToolTip": "Vecteur2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:41:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticObject.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\StaticObject.h",
+              "RelativeDocumentMoniker": "StaticObject.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\StaticObject.h",
+              "RelativeToolTip": "StaticObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticObject.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\StaticObject.cpp",
+              "RelativeDocumentMoniker": "StaticObject.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\StaticObject.cpp",
+              "RelativeToolTip": "StaticObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:41:44.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAttacker.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\IAttacker.h",
+              "RelativeDocumentMoniker": "IAttacker.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\IAttacker.h",
+              "RelativeToolTip": "IAttacker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IAttacker.cpp",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\IAttacker.cpp",
               "RelativeDocumentMoniker": "IAttacker.cpp",
               "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\IAttacker.cpp",
               "RelativeToolTip": "IAttacker.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-11T09:34:14.726Z",
+              "WhenOpened": "2024-10-11T09:41:41.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Entity.h",
+              "RelativeDocumentMoniker": "Entity.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Entity.h",
+              "RelativeToolTip": "Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Entity.cpp",
+              "RelativeDocumentMoniker": "Entity.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Entity.cpp",
+              "RelativeToolTip": "Entity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:41:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BreakableObject.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\BreakableObject.h",
+              "RelativeDocumentMoniker": "BreakableObject.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\BreakableObject.h",
+              "RelativeToolTip": "BreakableObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BreakableObject.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\BreakableObject.cpp",
+              "RelativeDocumentMoniker": "BreakableObject.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\BreakableObject.cpp",
+              "RelativeToolTip": "BreakableObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:41:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AMovable.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\AMovable.h",
+              "RelativeDocumentMoniker": "AMovable.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\AMovable.h",
+              "RelativeToolTip": "AMovable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:24.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AMovable.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\AMovable.cpp",
+              "RelativeDocumentMoniker": "AMovable.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\AMovable.cpp",
+              "RelativeToolTip": "AMovable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:41:22.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Alive.h",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Alive.h",
+              "RelativeDocumentMoniker": "Alive.h",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\Alive.h",
+              "RelativeToolTip": "Alive.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T09:41:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C\u002B\u002B encapsulation.cpp",
+              "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\C\u002B\u002B encapsulation.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B encapsulation.cpp",
+              "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\C-encapsulation\\C\u002B\u002B encapsulation.cpp",
+              "RelativeToolTip": "C\u002B\u002B encapsulation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:41:33.001Z",
               "EditorCaption": ""
             }
           ]
