@@ -1,0 +1,5 @@
+﻿  C++ encapsulation.cpp
+C:\Users\npestre\source\repos\C++ encapsulation\IAttacker.h(1,13): warning C4081: attendu 'newline' ; rencontré '*'
+  (compiler le fichier source 'C++%20encapsulation.cpp')
+  
+  C++ encapsulation.vcxproj -> C:\Users\npestre\source\repos\C++ encapsulation\x64\Debug\C++ encapsulation.exe
