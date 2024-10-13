@@ -7,7 +7,7 @@ AMovable::AMovable(Vecteur2 direct, float vit) : direc(direct), vite(vit)
 void AMovable::SetPosDirec(Vecteur2 direc)
 {
 	direc.SetX(direc.GetX());
-	direc.SetY(direc.GetX());
+	direc.SetY(direc.GetY());
 }
 
 void AMovable::SetPosVit(float vit)
